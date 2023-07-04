@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ec4741a-e7b6-4f14-859b-982404c87b2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Courses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GpaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CourseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/GpaCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Courses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/GpaCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/GpaCalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +64,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.CourseTest.createTest">
+  <component name="RunManager" selected="Gradle.GpaCalculatorTest.calculateGpaTest">
     <configuration name="CourseTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -142,8 +136,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.CourseTest.createTest" />
         <item itemvalue="Gradle.GpaCalculatorTest.calculateGpaTest" />
+        <item itemvalue="Gradle.CourseTest.createTest" />
         <item itemvalue="Gradle.CourseTest" />
       </list>
     </recent_temporary>
@@ -157,7 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688375611221</updated>
       <workItem from="1688375612950" duration="1192000" />
-      <workItem from="1688487181309" duration="4227000" />
+      <workItem from="1688487181309" duration="4999000" />
     </task>
     <servers />
   </component>
